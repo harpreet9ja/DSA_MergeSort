@@ -1,6 +1,7 @@
 ﻿    // See https://aka.ms/new-console-template for more information
 
     //Merge sort
+    //DSA
 
     using System.Security.Cryptography;
 
